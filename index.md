@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## m06t4keのページ
 
-You can use the [editor on GitHub](https://github.com/m06t4ke/m06t4ke.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ようこそ〜
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+なんとなく勢いでページを作っただけ。これからなんか書くかもしれない（書かないかもしれない）
 
-### Markdown
+### 好きな音楽
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Perfume
+  - 公式サイトは[こちら](https://www.perfume-web.jp/)
 
-```markdown
-Syntax highlighted code block
+### Twitter
+[こちら](https://twitter.com/m06t4ke/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m06t4ke/m06t4ke.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
