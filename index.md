@@ -1,11 +1,9 @@
-## m06t4keのページ
-
-### 自己紹介
+## 自己紹介
 - 都内の開発エンジニア age 27
   - 最近はk8sと格闘してる
 - Apple Musicで曲を探すのが趣味です。なんでも聞く。
 
-### 好きな音楽
+## 好きな音楽
 
 - Perfume
   - 15歳くらいから好き。アーティストの中で1番付き合いが長い。  
@@ -22,9 +20,9 @@
   - 1度はライブに行きたかった...
   - egoist
 
-### これまで参加したライブ
+## これまで参加したライブ
 こちら -> [@m06t4ke eventernote](https://www.eventernote.com/users/m06t4ke/events)
 
-### Twitter
+## Twitter
 こちら -> [@m06t4ke Twitter](https://twitter.com/m06t4ke/)
 
