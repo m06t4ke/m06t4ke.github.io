@@ -1,44 +1,44 @@
-| キャラ名 | フレーム表
-|:--|:--
-|ABIGAIL| [こちら](https://game.capcom.com/cfn/sfv/character/abigail/frame/table )|             
-|ALEX|    [こちら](https://game.capcom.com/cfn/sfv/character/alex/frame/table    )|          
-|BALROG|  [こちら](https://game.capcom.com/cfn/sfv/character/balrog/frame/table  )|            
-|BIRDIE|  [こちら](https://game.capcom.com/cfn/sfv/character/birdie/frame/table  )|            
-|BLANKA|  [こちら](https://game.capcom.com/cfn/sfv/character/blanka/frame/table  )|            
-|CAMMY|   [こちら](https://game.capcom.com/cfn/sfv/character/cammy/frame/table   )|           
-|CHUN-LI| [こちら](https://game.capcom.com/cfn/sfv/character/chun-li/frame/table )|             
-|CODY|    [こちら](https://game.capcom.com/cfn/sfv/character/cody/frame/table    )|          
-|DAN|     [こちら](https://game.capcom.com/cfn/sfv/character/dan/frame/table     )|         
-|DHALSIM| [こちら](https://game.capcom.com/cfn/sfv/character/dhalsim/frame/table )|             
-|E.HONDA| [こちら](https://game.capcom.com/cfn/sfv/character/ehonda/frame/table  )|            
-|ED|      [こちら](https://game.capcom.com/cfn/sfv/character/ed/frame/table      )|        
-|F.A.N.G| [こちら](https://game.capcom.com/cfn/sfv/character/fang/frame/table    )|          
-|FALKE|   [こちら](https://game.capcom.com/cfn/sfv/character/falke/frame/table   )|           
-|GILL|    [こちら](https://game.capcom.com/cfn/sfv/character/gill/frame/table    )|          
-|GOUKI|   [こちら](https://game.capcom.com/cfn/sfv/character/gouki/frame/table   )|           
-|GUILE|   [こちら](https://game.capcom.com/cfn/sfv/character/guile/frame/table   )|           
-|G|       [こちら](https://game.capcom.com/cfn/sfv/character/g/frame/table       )|       
-|IBUKI|   [こちら](https://game.capcom.com/cfn/sfv/character/ibuki/frame/table   )|           
-|JURI|    [こちら](https://game.capcom.com/cfn/sfv/character/juri/frame/table    )|          
-|KAGE|    [こちら](https://game.capcom.com/cfn/sfv/character/kage/frame/table    )|          
-|KARIN|   [こちら](https://game.capcom.com/cfn/sfv/character/karin/frame/table   )|           
-|KEN|     [こちら](https://game.capcom.com/cfn/sfv/character/ken/frame/table     )|         
-|KOLIN|   [こちら](https://game.capcom.com/cfn/sfv/character/kolin/frame/table   )|                         
-|LAURA|   [こちら](https://game.capcom.com/cfn/sfv/character/laura/frame/table   )|           
-|LUCIA|   [こちら](https://game.capcom.com/cfn/sfv/character/lucia/frame/table   )|           
-|M.BISON| [こちら](https://game.capcom.com/cfn/sfv/character/mbison/frame/table  )|            
-|MENAT|   [こちら](https://game.capcom.com/cfn/sfv/character/menat/frame/table   )|           
-|NASH|    [こちら](https://game.capcom.com/cfn/sfv/character/nash/frame/table    )|          
-|NECALLI| [こちら](https://game.capcom.com/cfn/sfv/character/necalli/frame/table )|             
-|POISON|  [こちら](https://game.capcom.com/cfn/sfv/character/poison/frame/table  )|            
-|R.MIKA|  [こちら](https://game.capcom.com/cfn/sfv/character/rmika/frame/table   )|           
-|RASHID|  [こちら](https://game.capcom.com/cfn/sfv/character/rashid/frame/table  )|            
-|ROSE|    [こちら](https://game.capcom.com/cfn/sfv/character/rose/frame/table    )|             
-|RYU|     [こちら](https://game.capcom.com/cfn/sfv/character/ryu/frame/table     )|         
-|SAGAT|   [こちら](https://game.capcom.com/cfn/sfv/character/sagat/frame/table   )|           
-|SAKURA|  [こちら](https://game.capcom.com/cfn/sfv/character/sakura/frame/table  )|            
-|SETH|    [こちら](https://game.capcom.com/cfn/sfv/character/seth/frame/table    )|          
-|URIEN|   [こちら](https://game.capcom.com/cfn/sfv/character/urien/frame/table   )|           
-|VEGA|    [こちら](https://game.capcom.com/cfn/sfv/character/vega/frame/table    )|          
-|ZANGIEF| [こちら](https://game.capcom.com/cfn/sfv/character/zangief/frame/table )|             
-|ZEKU|    [こちら](https://game.capcom.com/cfn/sfv/character/zeku/frame/table    )|          
+| キャラ名 | フレーム表 | memo
+|:--|:--|:--
+|ABIGAIL| [こちら](https://game.capcom.com/cfn/sfv/character/abigail/frame/table )| [こちら](https://m06t4ke.github.io/sfv/abigail)  
+|ALEX|    [こちら](https://game.capcom.com/cfn/sfv/character/alex/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/alex)     
+|BALROG|  [こちら](https://game.capcom.com/cfn/sfv/character/balrog/frame/table  )| [こちら](https://m06t4ke.github.io/sfv/balrog)   
+|BIRDIE|  [こちら](https://game.capcom.com/cfn/sfv/character/birdie/frame/table  )| [こちら](https://m06t4ke.github.io/sfv/birdie)   
+|BLANKA|  [こちら](https://game.capcom.com/cfn/sfv/character/blanka/frame/table  )| [こちら](https://m06t4ke.github.io/sfv/blanka)   
+|CAMMY|   [こちら](https://game.capcom.com/cfn/sfv/character/cammy/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/cammy)    
+|CHUN-LI| [こちら](https://game.capcom.com/cfn/sfv/character/chun-li/frame/table )| [こちら](https://m06t4ke.github.io/sfv/chun-li)  
+|CODY|    [こちら](https://game.capcom.com/cfn/sfv/character/cody/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/cody)     
+|DAN|     [こちら](https://game.capcom.com/cfn/sfv/character/dan/frame/table     )| [こちら](https://m06t4ke.github.io/sfv/dan)     
+|DHALSIM| [こちら](https://game.capcom.com/cfn/sfv/character/dhalsim/frame/table )| [こちら](https://m06t4ke.github.io/sfv/dhalsim)    
+|E.HONDA| [こちら](https://game.capcom.com/cfn/sfv/character/ehonda/frame/table  )| [こちら](https://m06t4ke.github.io/sfv/ehonda)    
+|ED|      [こちら](https://game.capcom.com/cfn/sfv/character/ed/frame/table      )| [こちら](https://m06t4ke.github.io/sfv/ed)     
+|F.A.N.G| [こちら](https://game.capcom.com/cfn/sfv/character/fang/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/fang)     
+|FALKE|   [こちら](https://game.capcom.com/cfn/sfv/character/falke/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/falke)    
+|GILL|    [こちら](https://game.capcom.com/cfn/sfv/character/gill/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/gill)     
+|GOUKI|   [こちら](https://game.capcom.com/cfn/sfv/character/gouki/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/gouki)    
+|GUILE|   [こちら](https://game.capcom.com/cfn/sfv/character/guile/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/guile)    
+|G|       [こちら](https://game.capcom.com/cfn/sfv/character/g/frame/table       )| [こちら](https://m06t4ke.github.io/sfv/g)     
+|IBUKI|   [こちら](https://game.capcom.com/cfn/sfv/character/ibuki/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/ibuki)    
+|JURI|    [こちら](https://game.capcom.com/cfn/sfv/character/juri/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/juri)     
+|KAGE|    [こちら](https://game.capcom.com/cfn/sfv/character/kage/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/kage)     
+|KARIN|   [こちら](https://game.capcom.com/cfn/sfv/character/karin/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/karin)    
+|KEN|     [こちら](https://game.capcom.com/cfn/sfv/character/ken/frame/table     )| [こちら](https://m06t4ke.github.io/sfv/ken)     
+|KOLIN|   [こちら](https://game.capcom.com/cfn/sfv/character/kolin/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/kolin)                  
+|LAURA|   [こちら](https://game.capcom.com/cfn/sfv/character/laura/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/laura)    
+|LUCIA|   [こちら](https://game.capcom.com/cfn/sfv/character/lucia/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/lucia)    
+|M.BISON| [こちら](https://game.capcom.com/cfn/sfv/character/mbison/frame/table  )| [こちら](https://m06t4ke.github.io/sfv/mbison)    
+|MENAT|   [こちら](https://game.capcom.com/cfn/sfv/character/menat/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/menat)    
+|NASH|    [こちら](https://game.capcom.com/cfn/sfv/character/nash/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/nash)     
+|NECALLI| [こちら](https://game.capcom.com/cfn/sfv/character/necalli/frame/table )| [こちら](https://m06t4ke.github.io/sfv/necalli)    
+|POISON|  [こちら](https://game.capcom.com/cfn/sfv/character/poison/frame/table  )| [こちら](https://m06t4ke.github.io/sfv/poison)    
+|R.MIKA|  [こちら](https://game.capcom.com/cfn/sfv/character/rmika/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/rmika)    
+|RASHID|  [こちら](https://game.capcom.com/cfn/sfv/character/rashid/frame/table  )| [こちら](https://m06t4ke.github.io/sfv/rashid)    
+|ROSE|    [こちら](https://game.capcom.com/cfn/sfv/character/rose/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/rose)       
+|RYU|     [こちら](https://game.capcom.com/cfn/sfv/character/ryu/frame/table     )| [こちら](https://m06t4ke.github.io/sfv/ryu)     
+|SAGAT|   [こちら](https://game.capcom.com/cfn/sfv/character/sagat/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/sagat)    
+|SAKURA|  [こちら](https://game.capcom.com/cfn/sfv/character/sakura/frame/table  )| [こちら](https://m06t4ke.github.io/sfv/sakura)    
+|SETH|    [こちら](https://game.capcom.com/cfn/sfv/character/seth/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/seth)     
+|URIEN|   [こちら](https://game.capcom.com/cfn/sfv/character/urien/frame/table   )| [こちら](https://m06t4ke.github.io/sfv/urien)    
+|VEGA|    [こちら](https://game.capcom.com/cfn/sfv/character/vega/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/vega)     
+|ZANGIEF| [こちら](https://game.capcom.com/cfn/sfv/character/zangief/frame/table )| [こちら](https://m06t4ke.github.io/sfv/zangief)  
+|ZEKU|    [こちら](https://game.capcom.com/cfn/sfv/character/zeku/frame/table    )| [こちら](https://m06t4ke.github.io/sfv/zeku)     
